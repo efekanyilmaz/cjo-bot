@@ -1,0 +1,10 @@
+tweepy
+praw
+beautifulsoup4
+nltk
+spacy
+textblob
+transformers
+ccxt
+flask
+python-dotenv
